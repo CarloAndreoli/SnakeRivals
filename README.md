@@ -1,2 +1,0 @@
-# SnakeRivals
-Android videogame privacy

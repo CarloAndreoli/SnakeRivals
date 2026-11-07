@@ -1,0 +1,58 @@
+# SnakeRivals
+
+Privacy Policy for Snake Rivals
+Last updated: 7 November 2026
+Snake Rivals, is provided by Carlo Andreoli, publishing as AC80.
+
+Information Used by the Game
+ - Local game data
+Snake Rivals stores your chosen nickname, preferences, and local scores and times on your device. These records are not automatically published to a global leaderboard.
+You can remove locally stored data by clearing the app’s storage through Android settings. Uninstalling the app generally removes its local data, although Android backup and restore settings may affect this.
+
+Online multiplayer
+Snake Rivals uses Photon Cloud, provided by Exit Games, to support multiplayer connections.
+When you use multiplayer, your nickname, session identifier, and gameplay information are transmitted to operate and synchronize the match. Your nickname and relevant match information are visible to other players in the session. Avoid including personal information in your nickname.
+Photon processes technical connection information, including IP addresses and user identifiers, to provide and protect its service.
+See Photon’s Privacy Policy⁠. 
+Google Play Games
+Google Play Games leaderboards are not currently enabled in this version. No scores or completion times are submitted by the game to Google Play Games leaderboards.
+This policy will be updated before releasing a version that enables those features.
+
+Support requests
+If you contact us, we receive your email address and any information you choose to include. We use this information to respond and handle your request.
+
+Why Information Is Used
+Information is used to:
+Store game preferences and local results.
+Establish multiplayer sessions and synchronize gameplay.
+Maintain service functionality and security.
+Respond to support and privacy requests.
+Where applicable under data protection law, processing necessary to provide requested gameplay features is based on performance of the service. Processing for service security and handling enquiries may be based on legitimate interests. Consent will be requested where legally required.
+
+Service Providers and Sharing
+Information necessary to deliver online features is processed by the relevant service providers, as described above. We do not sell players’ personal information.
+Information may also be disclosed where required by law or necessary to establish, exercise, or defend legal claims.
+Service providers may process information outside your country of residence. Their privacy notices explain their processing locations and applicable safeguards.
+
+Advertising and Purchases
+The current version does not include in-game advertising or in-app purchases. This policy will be updated if these features are introduced.
+
+Data Retention
+Local game records remain on your device until deleted or replaced.
+Multiplayer session information is used to operate the session. Technical information retained by Photon is subject to its retention practices.
+Support correspondence is retained only for as long as reasonably necessary to address the request, resolve related issues, or meet legal obligations.
+
+Your Privacy Rights
+Depending on your location, you may have rights to access, correct, delete, or restrict the processing of your personal information, object to certain processing, or request data portability. Where processing relies on consent, you may withdraw that consent.
+To make a request, email [CONTACT EMAIL]. We may need information sufficient to identify the relevant records. We cannot necessarily identify a player from a nickname alone.
+You may also lodge a complaint with your local data protection authority.
+Security
+We use reasonable technical and organizational measures appropriate to the information processed. However, no online service or storage system can guarantee absolute security.
+
+Changes to This Policy
+We may update this policy when the game or its data practices change. The latest version will be available on this page, with its revision date.
+
+Contact
+Developer: Carlo Andreoli
+Google Play developer name: AC80
+Email: barbetto80@libero.it
